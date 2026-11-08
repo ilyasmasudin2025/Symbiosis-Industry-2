@@ -93,4 +93,4 @@ text
 All analyses use `numpy.random.default_rng(42)` and `networkx.watts_strogatz_graph(seed=42)` for deterministic reproducibility.
 
 ---
-mbiosis Industry 2
+
